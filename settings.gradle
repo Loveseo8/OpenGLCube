@@ -1,0 +1,2 @@
+rootProject.name='Halley`s Comet'
+include ':app'
